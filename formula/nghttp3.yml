@@ -1,0 +1,5 @@
+summary: HTTP/3 library written in C
+webpage: https://github.com/ngtcp2/nghttp3
+version: 2024.06.01
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/nghttp3-2024.06.01-macos-11.0-x86_64.tar.xz
+bin-sha: 45cd195bd96e65277996e770da7cecbb0b37275524a91ad8bcad994141ffd563

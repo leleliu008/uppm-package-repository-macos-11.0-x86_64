@@ -1,0 +1,5 @@
+summary: Embeddable Javascript interpreter
+webpage: https://www.mujs.com/
+version: 1.3.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/mujs-1.3.4-macos-11.0-x86_64.tar.xz
+bin-sha: 79e04057f9a25f6b23fc5548e41511b46778e9b56d245b075681b955b042bb58

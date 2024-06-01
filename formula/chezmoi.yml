@@ -1,0 +1,5 @@
+summary: Manage your dotfiles across multiple diverse machines, securely
+webpage: https://chezmoi.io/
+version: 2.48.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/chezmoi-2.48.1-macos-11.0-x86_64.tar.xz
+bin-sha: f8414835164057a5c02e81dd2206cca87d0820af10ede07300fecd311b450c97

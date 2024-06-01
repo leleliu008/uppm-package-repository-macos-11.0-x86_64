@@ -1,0 +1,5 @@
+summary: Utility for computing and verifying hash sums of files
+webpage: http://rhash.sourceforge.net
+version: 1.4.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/rhash-1.4.4-macos-11.0-x86_64.tar.xz
+bin-sha: 709b6c9fde0f1bf7ea6eedc735ece35e46b1503816e9c9d3e3524aea27fc8bda

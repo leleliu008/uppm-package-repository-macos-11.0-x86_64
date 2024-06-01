@@ -1,0 +1,5 @@
+summary: Automatically restart SSH sessions and tunnels
+webpage: https://www.harding.motd.ca/autossh/
+version: 1.4g
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/autossh-1.4g-macos-11.0-x86_64.tar.xz
+bin-sha: 966bd90ede701d1a7f30afb3d9414e7caa6867bed2b12dceb0034602c037d442

@@ -1,0 +1,5 @@
+summary: X.Org X Video (Xv) extension
+webpage: https://www.x.org/
+version: 1.0.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/xorg-libxv-1.0.12-macos-11.0-x86_64.tar.xz
+bin-sha: c835f6e9712e61475207c9fec61a2e8ad8a57fbba00012ca19cc72f8d48673d9

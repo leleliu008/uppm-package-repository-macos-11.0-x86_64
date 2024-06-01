@@ -1,0 +1,5 @@
+summary: Optimized MPEG Audio Layer 2 (MP2) encoder
+webpage: https://www.twolame.org/
+version: 0.4.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/libtwolame-0.4.0-macos-11.0-x86_64.tar.xz
+bin-sha: 952204f4ab0f994c14aeb7d0166f1585dc21fc3e232b54a50f5fad94bf3aa590

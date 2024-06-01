@@ -1,0 +1,5 @@
+summary: netcat on steroids
+webpage: http://www.dest-unreach.org/socat/
+version: 1.8.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/socat-1.8.0.0-macos-11.0-x86_64.tar.xz
+bin-sha: d8f3e0f0116cacdcf6fa2b9b16c625c5cf15316f6e31bd3d0029c2517074dc21

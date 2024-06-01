@@ -1,0 +1,5 @@
+summary: An embeddable Javascript engine with a focus on portability and compact footprint
+webpage: https://duktape.org/
+version: 2.7.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/libduktape-2.7.0-macos-11.0-x86_64.tar.xz
+bin-sha: c0ff95d31d6ad448ab33c038fcc22d837886c51fea23204e00a07e10296f2ca8

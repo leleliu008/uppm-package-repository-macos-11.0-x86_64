@@ -1,0 +1,5 @@
+summary: Compact Disc Input and Control Library
+webpage: https://www.gnu.org/software/libcdio
+version: 2.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/libcdio-2.1.0-macos-11.0-x86_64.tar.xz
+bin-sha: d8e521fe35c6e27bca9657d83d6d8ce1dabffa19482580738670c9d9bae65fd0

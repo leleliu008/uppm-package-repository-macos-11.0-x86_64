@@ -1,0 +1,5 @@
+summary: Go cross compile tool
+webpage: https://github.com/mitchellh/gox
+version: 1.0.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/gox-1.0.1-macos-11.0-x86_64.tar.xz
+bin-sha: 7cfa0978f3b73eeb2eac19191f9244e616dfc3934fbc25b69a1efbc3683df5eb

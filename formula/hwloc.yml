@@ -1,0 +1,5 @@
+summary: Portable abstraction of the hierarchical topology of modern architectures
+webpage: https://www.open-mpi.org/projects/hwloc
+version: 2.10.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/hwloc-2.10.0-macos-11.0-x86_64.tar.xz
+bin-sha: 2a6eaa9e9ff4c3068032e8acd8e4abbb98dbb9af46a039974c20c07e07a98dc9

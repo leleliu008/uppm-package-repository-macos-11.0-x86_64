@@ -1,0 +1,5 @@
+summary: C macros for hash tables and more
+webpage: https://troydhanson.github.io/uthash/
+version: 2.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/uthash-2.3.0-macos-11.0-x86_64.tar.xz
+bin-sha: f7397c44560f4b239a111e3da057edb31bcd09adb816c8cfd2a5e2a48218aa50

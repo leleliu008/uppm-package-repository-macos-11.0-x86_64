@@ -1,0 +1,5 @@
+summary: Like grep but for binary strings
+webpage: https://github.com/tmbinc/bgrep
+version: 0.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/bgrep-0.2-macos-11.0-x86_64.tar.xz
+bin-sha: afbfe2e81fc5c9b772dc3e3cf31d9d5cb4a7d3708441e2a0033f9342d4bc46e2

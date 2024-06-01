@@ -1,0 +1,5 @@
+summary: A lightweight, fast, full-text search engine for static websites built with Rust and Wasm
+webpage: https://github.com/tinysearch/tinysearch
+version: 0.8.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/tinysearch-0.8.2-macos-11.0-x86_64.tar.xz
+bin-sha: a2a843812c152d5d341504347d23389b3c9d369f1e27cbd2c9d0a7a84b6cc78c

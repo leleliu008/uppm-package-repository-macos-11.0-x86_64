@@ -1,0 +1,5 @@
+summary: Audio codec
+webpage: https://www.opus-codec.org
+version: 1.5.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/libopus-1.5.2-macos-11.0-x86_64.tar.xz
+bin-sha: 40f831e07aa202e41c1f3e2e366045e9dae9dba208d2714c0eaaacee783ff696

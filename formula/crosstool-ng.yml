@@ -1,0 +1,5 @@
+summary: Tool for building toolchains
+webpage: https://crosstool-ng.github.io
+version: 1.26.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/crosstool-ng-1.26.0-macos-11.0-x86_64.tar.xz
+bin-sha: 329fe3bdf85208e1d086c47e7e95f2c64e97abe0d36c993333e76fe0a1a09db7

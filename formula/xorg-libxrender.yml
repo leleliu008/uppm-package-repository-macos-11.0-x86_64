@@ -1,0 +1,5 @@
+summary: X.Org Library for the Render Extension to the X11 protocol
+webpage: https://www.x.org/
+version: 0.9.11
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/xorg-libxrender-0.9.11-macos-11.0-x86_64.tar.xz
+bin-sha: 74afaba68b9357164c074989145087498697f81bde01d04499aa915596d3fe1b

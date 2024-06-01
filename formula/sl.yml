@@ -1,0 +1,5 @@
+summary: Prints a steam locomotive if you type sl instead of ls
+webpage: https://github.com/mtoyoda/sl
+version: 5.02
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/sl-5.02-macos-11.0-x86_64.tar.xz
+bin-sha: cbff653d3bb102de171089e093d2499dbfe6fc0e357697c3ecf683c3b64ab99f

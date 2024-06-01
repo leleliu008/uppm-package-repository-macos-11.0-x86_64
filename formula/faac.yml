@@ -1,0 +1,5 @@
+summary: ISO AAC audio encoder
+webpage: https://sourceforge.net/projects/faac
+version: 1.30
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/faac-1.30-macos-11.0-x86_64.tar.xz
+bin-sha: a32df155f4edf332f6e00803c920bd0c7844bba14519a05ba2dd25fcb7b47a10

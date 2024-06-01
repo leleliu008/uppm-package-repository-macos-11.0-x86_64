@@ -1,0 +1,5 @@
+summary: Video processing framework with simplicity in mind
+webpage: https://www.vapoursynth.com
+version: R68
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/vapoursynth-R68-macos-11.0-x86_64.tar.xz
+bin-sha: 7a66a769337732d7b577090ed5f67444f029b322da328bf26477de2fd3d77470

@@ -1,0 +1,5 @@
+summary: X.Org X-Video Motion Compensation API
+webpage: https://www.x.org/
+version: 1.0.13
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/xorg-libxvmc-1.0.13-macos-11.0-x86_64.tar.xz
+bin-sha: 65e828faee54aacb885b516749356c347004f15e3991eda4786d019b4b6a0afb

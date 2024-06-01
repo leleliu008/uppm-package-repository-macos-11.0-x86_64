@@ -1,0 +1,5 @@
+summary: C library for multiple-precision floating-point computations
+webpage: https://www.mpfr.org
+version: 4.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/libmpfr-4.2.1-macos-11.0-x86_64.tar.xz
+bin-sha: 383f8dc9ca8ab5191bc61f6a5f5e6a38624a9ee429f9595ca93b443747dc6da5

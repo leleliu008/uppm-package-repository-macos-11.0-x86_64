@@ -1,0 +1,5 @@
+summary: Friendly and expressive shell
+webpage: https://elv.sh/
+version: 0.20.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/elvish-0.20.1-macos-11.0-x86_64.tar.xz
+bin-sha: 551597abe5f6c854962b7789560e0defa3fe9643cb03e4bce5e41a4d6af4cb92

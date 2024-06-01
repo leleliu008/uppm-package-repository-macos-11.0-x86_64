@@ -1,0 +1,5 @@
+summary: A fast, efficient and secure backup program
+webpage: https://restic.github.io/
+version: 0.16.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/restic-0.16.4-macos-11.0-x86_64.tar.xz
+bin-sha: 8dcc3f5953d25c2e62f296744703a53b0c8db12548c1f728c1935e86a4b31eb7

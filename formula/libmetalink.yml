@@ -1,0 +1,5 @@
+summary: A C library to parse Metalink XML files
+webpage: https://launchpad.net/libmetalink
+version: 0.1.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/libmetalink-0.1.3-macos-11.0-x86_64.tar.xz
+bin-sha: 6e6cd81e7d00ef8c45fb3e6e2ac26084e86945ead3ed48b2244a61c55c844fef

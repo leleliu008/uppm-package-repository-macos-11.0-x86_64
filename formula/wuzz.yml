@@ -1,0 +1,5 @@
+summary: Interactive cli tool for HTTP inspection
+webpage: https://github.com/asciimoo/wuzz
+version: 0.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/wuzz-0.5.0-macos-11.0-x86_64.tar.xz
+bin-sha: 44e0db002d31364c5fca8c4af6584eb1af37d71d868990640715547079ad3fc7

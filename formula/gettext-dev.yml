@@ -1,0 +1,5 @@
+summary: GNU internationalization (i18n) and localization (l10n) library
+webpage: https://www.gnu.org/software/gettext
+version: 0.22.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/gettext-dev-0.22.5-macos-11.0-x86_64.tar.xz
+bin-sha: 09d5d7ecbdb2a4ab0e25d6440114f8c566f3b3448599b4f462742648aabbcab6

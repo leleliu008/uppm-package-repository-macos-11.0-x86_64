@@ -1,0 +1,5 @@
+summary: Secure FTP server for UNIX
+webpage: https://security.appspot.com/vsftpd.html
+version: 3.0.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/vsftpd-3.0.5-macos-11.0-x86_64.tar.xz
+bin-sha: 5ca13f418a1b75bca78a7dcc8db8964400545e65559e2de45f372120da37966c

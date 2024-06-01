@@ -1,0 +1,5 @@
+summary: VP8/VP9 video codec
+webpage: https://www.webmproject.org/code/
+version: 1.13.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64/releases/download/2024.06.01/libvpx-1.13.0-macos-11.0-x86_64.tar.xz
+bin-sha: b90d118628dade49bc96157717942d692ca83c2371f5ebda6d9201c1fde6b3ba
